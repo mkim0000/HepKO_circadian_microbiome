@@ -1,7 +1,7 @@
 # Iron-circadian crosstalk in the murine gut microbiome
 
 Completed as part of Specialist Research Project in Multi-Omics and Data Science (BIOC0023) for BSc Biochemistry at UCL, 2024-25.  
-This repository hosts a reproducible Snakemake workflow for processing and analysing 16S rRNA amplicon sequencing data (V3-V4) generated for a pilot survey of the theme.
+This repository hosts a reproducible workflow for processing and analysing 16S rRNA amplicon sequencing data (V3-V4) generated for a pilot survey of the theme.
 
 ## Rationale
 - Luminal iron availability rapidly remodels microbial communities.
