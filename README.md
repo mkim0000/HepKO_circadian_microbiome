@@ -17,7 +17,7 @@ This repository hosts a reproducible Snakemake workflow for processing and analy
 - **Gut regions**: faeces, ileum, duodenum
 
 ## Main findings
-- Small sample size limited statistical power
+- Small sample size limited the statistical power.
 - Day‑night oscillation in WT is dampened or reversed in HET.
 - Largest shifts were observed in duodenum.
 - Firmicutes/Bacteroidetes (F/B) ratio change is reversed in HET mice. 
