@@ -23,5 +23,5 @@ This repository hosts a reproducible Snakemake workflow for processing and analy
 - Firmicutes/Bacteroidetes (F/B) ratio change is reversed in HET mice. 
 
 ## Acknowledgments
-I would like to extend my gratitude to Dr Toryn Poolman, UCL for his expert advice and support throughout the project.  
+I would like to extend my gratitude to Dr Toryn Poolman, UCL for his advice and support throughout the project.  
 The knockout mice were a kind gift from Prof David Ray, University of Oxford.
